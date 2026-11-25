@@ -1,0 +1,6 @@
+{
+  "name": "Indian Railways CVI PVC & LD Suite",
+  "description": "Stores Accounts & Vigilance Price Variation Clause (PVC) and Liquidated Damages (LD) Scrutiny Suite with PO-Centric Milestone Ledger, Dynamic Component Index Matrix, and 4-Way Lower Rate PO Evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
